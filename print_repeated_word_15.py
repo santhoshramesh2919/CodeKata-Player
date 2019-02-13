@@ -1,3 +1,4 @@
+#print repeated words
 str1=input()
 dic={}
 max=0
