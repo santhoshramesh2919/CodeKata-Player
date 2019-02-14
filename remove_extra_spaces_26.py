@@ -1,5 +1,4 @@
 str1=list(input())
-print(str1)
 li=[]
 i=0
 while i<len(str1):
