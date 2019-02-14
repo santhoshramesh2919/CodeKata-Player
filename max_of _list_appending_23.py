@@ -1,4 +1,5 @@
 n,k=map(int,input().split())
+print()
 li1=list(map(int,input().split()))
 li2=list(map(int,input().split()))
 li3=[]
