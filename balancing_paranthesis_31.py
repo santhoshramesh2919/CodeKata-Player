@@ -9,7 +9,7 @@ for i in range(len(s)):
       stack.pop()
     elif len(stack)==0:
       flag=1
-if flag==0:
+if flag==0 and len(stack)==0:
   print("yes")
 else:
   print("no")
