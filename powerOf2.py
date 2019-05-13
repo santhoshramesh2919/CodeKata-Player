@@ -1,7 +1,7 @@
 #Power of 2
 def isPowerOf2(n):
     if n==0:
-        return True
+        return False
     while(n!=1):
         if (n%2!=0):
             return False
