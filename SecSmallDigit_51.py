@@ -1,0 +1,5 @@
+n=int(input())
+li=list(map(int,input().split()))
+li.sort()
+li.pop(0)
+print(min(li))
