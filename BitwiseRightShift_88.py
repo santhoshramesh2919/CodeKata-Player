@@ -1,3 +1,3 @@
 #Right
 n,k=map(int,input().split())
-print(n>>k)
+print("{0:1f}".format(n>>k))
