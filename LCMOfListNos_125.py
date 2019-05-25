@@ -1,3 +1,4 @@
+#Calculating LcM for list
 from math import gcd
 n=int(input())
 list1 =list(map(int,input().split()))  
